@@ -1,0 +1,4 @@
+Question 1 : In Machine Learning I have seen that for Different Datasets we use different Machine Learning Models. I mean that one model is working good on a multiclass dataset but the same model can fail on other
+multiclass dataset. Why this problem arrives? i.e. If The same model is giving excellent result on one multiclass dataset then why it fails on some multiclass Datasets? 
+
+Question 2 : I have studied that Dimentionality Reduction Techniques are Scaling Strict i.e. for good result of Dimentionality reduction we should pass the scaled data through the model. Scaling techniques are used to remove mean and standard deviation from the data but in Dimentionality reduction like Principal Component Analysis we get the component of the variance of data 
